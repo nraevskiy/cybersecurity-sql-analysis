@@ -4,12 +4,12 @@ Security analytics queries using SQL — based on Google Cybersecurity Certifica
 
 This project demonstrates how SQL filtering techniques can be applied in cybersecurity investigations and internal asset management.
 
-🛡️ **Use Case**  
+**Use Case**  
 Based on Google Cybersecurity Certificate capstone tasks.
 
 ---
 
-## 🔍 Project Overview
+## Project Overview
 
 As part of a cybersecurity operations project, I wrote SQL queries to:
 
@@ -20,7 +20,7 @@ As part of a cybersecurity operations project, I wrote SQL queries to:
 
 ---
 
-## 📁 Query Files
+## Query Files
 
 | File | Description |
 |------|-------------|
@@ -33,7 +33,7 @@ As part of a cybersecurity operations project, I wrote SQL queries to:
 
 ---
 
-## 🧠 Skills Applied
+## Skills Applied
 
 - SQL querying & filtering
 - Time and date logic
@@ -43,7 +43,7 @@ As part of a cybersecurity operations project, I wrote SQL queries to:
 
 ---
 
-## 🧰 Tables Used
+## Tables Used
 
 - `log_in_attempts`  
 - `employees`
